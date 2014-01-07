@@ -1,0 +1,1 @@
+/sensortag/bluez-5.12/lib/hci_lib.h
